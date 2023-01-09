@@ -1,4 +1,4 @@
-package me.seungui.demospringdata;
+package me.seungui.demospringdata.post;
 
 import java.util.List;
 
